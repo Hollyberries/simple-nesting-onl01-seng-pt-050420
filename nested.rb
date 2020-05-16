@@ -141,7 +141,7 @@ def adding_to_dennis
      }
 
 
-adding_to_dennis[:dennis_ritchie][:languages] << "Assembly"
+adding_to_dennis[:dennis_ritchie][:languages][1] << "Assembly"
 
 
 end
